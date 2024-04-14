@@ -18,9 +18,9 @@ Abierto a colaboraciones, aportes y nuevos desafíos. Siempre estoy buscando apr
 
  <hr/>
  
-<h2 align="center">🧙🏻‍♂️MIS LENGUAJES🧙🏻‍♂️</h2>
+<h2 align="center">🧙🏻‍♂️MIS LENGUAJES Y HERRAMIENTAS🧙🏻‍♂️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cs,cpp,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,cs,cpp,java,mysql,visualstudio,vscode,pycharm,dotnet" /><br>
 </div>
 <br/>
