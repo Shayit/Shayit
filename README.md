@@ -13,11 +13,8 @@ Desarrollo de API RESTful - Manejo de bases de datos SQL - Implementación de me
 Abierto a colaboraciones, aportes y nuevos desafíos. Siempre estoy buscando aprender y crecer como profesional.
  </div>
  
-<div align="center"> 
-</div>
-
  <hr/>
- 
+
 <h2 align="center">🧙🏻‍♂️MIS LENGUAJES Y HERRAMIENTAS🧙🏻‍♂️</h2>
 <br/>
 <div align="center">
