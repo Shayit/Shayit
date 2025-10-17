@@ -8,7 +8,7 @@
 
 <div align="center">
  
-Desarrollo de Aplicaciones Web enfocado al Backend - Manejo de bases de datos SQL - Implementación de medidas de seguridad, autenticación y autorización. 
+Desarrollador de software con experiencia en frontend (Angular, React) y backend (C#, Python). Cuento con conocimientos en arquitecturas y enfoques de diseño como Domain-Driven Design (DDD) y Clean Architecture, además de dominio en Git, HTML, CSS y JavaScript. Me interesa el desarrollo full-stack y la creación de soluciones limpias, mantenibles y orientadas al negocio.
 
 Abierto a colaboraciones, aportes y nuevos desafíos. Siempre estoy buscando aprender y crecer como profesional.
  </div>
