@@ -13,7 +13,7 @@
   <p>
     Desarrollador de software con experiencia en frontend (<strong>Angular</strong>, <strong>React</strong>) y backend (<strong>C#</strong>, <strong>Python</strong>).
     Cuento con conocimientos en arquitecturas y enfoques de diseño como <strong>Domain-Driven Design (DDD)</strong> y <strong>Clean Architecture</strong>, además de dominio en
-    <strong>Git</strong>, <strong>HTML</strong>, <strong>CSS</strong> y <strong>JavaScript</strong>.
+    <strong>Git</strong>, <strong>HTML</strong>, <strong>CSS</strong>, y <strong>TypeScript</strong> y <strong>JavaScript</strong>.
   </p>
 
   <p>
